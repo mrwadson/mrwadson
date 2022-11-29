@@ -12,7 +12,7 @@
 
 **Languages and tools**:
 
-PHP, MVC, SQL, HTML5, JavaScript, jQuery, Yii2, Magento2/Magento1, WordPress, OpenCart, Git&Github, PHPStorm/VSCode.
+PHP, MVC, SQL, HTML5, JavaScript, jQuery, Yii2, Laravel, Yii2, Magento2/Magento1, WordPress, OpenCart, Git&Github, PHPStorm/VSCode.
 
 <!---
 mrwadson/mrwadson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
