@@ -16,7 +16,7 @@ PHP, MVC, SQL, HTML5, JavaScript/jQuery, Laravel, Yii2, Magento2/Magento1, WordP
 
 **My Repos**:
 
-You can see my public own-created repos below 👇⬇💟.
+You can see my public own-created repos below 👇💟.
 
 <!---
 mrwadson/mrwadson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
